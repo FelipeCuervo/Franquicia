@@ -28,4 +28,4 @@ está montada en un servidor mysql en nube.
 1. Clona este repositorio:
 
    ```bash
-   https://github.com/FelipeCuervo/Franquicia.gi
+   https://github.com/FelipeCuervo/Franquicia.git
